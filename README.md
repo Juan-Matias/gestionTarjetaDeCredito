@@ -1,5 +1,8 @@
 # Credit Card Management 💳
 
+![Diagrama de Clases](https://github.com/Juan-Matias/gestionTarjetaDeCredito/blob/163564606d40ec5e58dc882fe8089278fa87ff96/diagramaDeClases.png)
+
+
 Simulación simple de una tarjeta de crédito desarrollada en Java.  
 Permite realizar compras siempre que haya saldo disponible, y mantiene un historial de transacciones.
 
